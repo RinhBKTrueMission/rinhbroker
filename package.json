@@ -1,0 +1,15 @@
+{
+  "name": "demoserver",
+  "version": "1.0.0",
+  "description": "demo mqtt broker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RinhTran",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.46.2",
+    "mqtt": "^4.3.3"
+  }
+}

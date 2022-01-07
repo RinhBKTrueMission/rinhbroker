@@ -11,6 +11,7 @@
     "license": "ISC",
     "dependencies": {
         "aedes": "^0.46.2",
+        "aedes-server-factory": "^0.2.1",
         "mqtt": "^4.3.3"
     }
 }
